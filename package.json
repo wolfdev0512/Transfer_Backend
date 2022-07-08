@@ -1,0 +1,19 @@
+{
+  "name": "coin_transfer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeniusNinja33/Transfer_Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeniusNinja33/Transfer_Backend/issues"
+  },
+  "homepage": "https://github.com/GeniusNinja33/Transfer_Backend#readme"
+}
